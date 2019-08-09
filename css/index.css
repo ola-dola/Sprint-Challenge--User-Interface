@@ -202,3 +202,32 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.aboutSect {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px dashed black;
+}
+
+.flexSect {
+    display: flex;
+    align-content: space-around;
+}
+
+.sectBorder {
+    padding-bottom: 20px;
+    border-bottom: 1px dashed black;
+    margin-bottom: 20px;
+}
+
+.lastSect {
+    padding: 20px 0;
+}
+
+.roundBorder {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
