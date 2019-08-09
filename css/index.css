@@ -71,6 +71,23 @@ p {
     margin: 0 auto;
 }
 
+.nav-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    padding-right: 30px;
+    margin: 20px 0 30px 0;
+}
+
+header {
+    padding-bottom: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
@@ -111,6 +128,47 @@ p {
     align-items: center;
     justify-content: center;
 }
+
+#box1 {
+    background-color: teal;
+}
+
+#box2 {
+    background-color: gold;
+}
+
+#box3 {
+    background-color: cadetblue;
+}
+
+#box4 {
+    background-color: coral;
+}
+
+#box5 {
+    background-color: crimson;
+}
+
+#box6 {
+    background-color: forestgreen;
+}
+
+#box7 {
+    background-color: darkorchid;
+}
+
+#box8 {
+    background-color: hotpink;
+}
+
+#box9 {
+    background-color: indigo;
+}
+
+#box10 {
+    background-color: dodgerblue;
+}
+
 
 .bottom-content {
     display: flex;
